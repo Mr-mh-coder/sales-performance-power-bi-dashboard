@@ -197,7 +197,8 @@ The combination of interactive filters, dynamic KPIs, DAX measures, and multi-di
 
 ### Sales & Cost Analysis
 
-![Sales Analysis](screenshots/sales-analysis.png)
+![Sales Analysis](screenshots/sales-analysis-1.png)
+![Sales Analysis](screenshots/sales-analysis-2.png)
 
 ### Employee & Customer Analysis
 
@@ -209,7 +210,8 @@ The combination of interactive filters, dynamic KPIs, DAX measures, and multi-di
 
 ### Product & Service Analysis
 
-![Product & Service Analysis](screenshots/product-service-analysis.png)
+![Product & Service Analysis](screenshots/product-service-analysis-1.png)
+![Product & Service Analysis](screenshots/product-service-analysis-2.png)
 
 ---
 
