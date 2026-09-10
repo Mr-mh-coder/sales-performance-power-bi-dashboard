@@ -236,5 +236,3 @@ sales-business-intelligence-dashboard/
 
 ```
 
-> Note: The dataset is included only if it is publicly shareable and does not contain confidential or sensitive information.
-
