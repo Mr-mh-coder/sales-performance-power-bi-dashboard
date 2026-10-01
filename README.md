@@ -206,7 +206,7 @@ The combination of interactive filters, dynamic KPIs, DAX measures, and multi-di
 
 ### Provincial Analysis
 
-![Provincial Analysis](screenshots/provincial-analysis.png)
+![Provincial Analysis](screenshots/province-analysis.png)
 
 ### Product & Service Analysis
 
